@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-28T17:25:56 IST" name="Suite" finished-at="2025-01-28T17:26:28 IST" duration-ms="31899">
+    <groups>
+      <group name="Smoke test">
+        <method signature="CreateOrganizationTest.createOrganizationTest()[pri:0, instance:com.crm.orgtest.CreateOrganizationTest@75d4a5c2]" name="createOrganizationTest" class="com.crm.orgtest.CreateOrganizationTest"/>
+      </group> <!-- Smoke test -->
+    </groups>
+    <test started-at="2025-01-28T17:25:56 IST" name="Test" finished-at="2025-01-28T17:26:28 IST" duration-ms="31899">
+      <class name="com.crm.orgtest.CreateOrganizationTest">
+        <test-method is-config="true" signature="configBeforesuite()[pri:0, instance:com.crm.orgtest.CreateOrganizationTest@75d4a5c2]" started-at="2025-01-28T17:25:56 IST" name="configBeforesuite" finished-at="2025-01-28T17:25:56 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforesuite -->
+        <test-method is-config="true" signature="configBeforeClass()[pri:0, instance:com.crm.orgtest.CreateOrganizationTest@75d4a5c2]" started-at="2025-01-28T17:25:56 IST" name="configBeforeClass" finished-at="2025-01-28T17:26:09 IST" duration-ms="12535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeClass -->
+        <test-method is-config="true" signature="configBeforeMethod()[pri:0, instance:com.crm.orgtest.CreateOrganizationTest@75d4a5c2]" started-at="2025-01-28T17:26:09 IST" name="configBeforeMethod" finished-at="2025-01-28T17:26:13 IST" duration-ms="3750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeMethod -->
+        <test-method signature="createOrganizationTest()[pri:0, instance:com.crm.orgtest.CreateOrganizationTest@75d4a5c2]" started-at="2025-01-28T17:26:13 IST" name="createOrganizationTest" finished-at="2025-01-28T17:26:26 IST" duration-ms="13609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationTest -->
+        <test-method is-config="true" signature="configAfterMethod()[pri:0, instance:com.crm.orgtest.CreateOrganizationTest@75d4a5c2]" started-at="2025-01-28T17:26:26 IST" name="configAfterMethod" finished-at="2025-01-28T17:26:28 IST" duration-ms="1860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMethod -->
+        <test-method is-config="true" signature="configAfterClass()[pri:0, instance:com.crm.orgtest.CreateOrganizationTest@75d4a5c2]" started-at="2025-01-28T17:26:28 IST" name="configAfterClass" finished-at="2025-01-28T17:26:28 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterClass -->
+        <test-method is-config="true" signature="configAfterSuite()[pri:0, instance:com.crm.orgtest.CreateOrganizationTest@75d4a5c2]" started-at="2025-01-28T17:26:28 IST" name="configAfterSuite" finished-at="2025-01-28T17:26:28 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterSuite -->
+      </class> <!-- com.crm.orgtest.CreateOrganizationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
